@@ -1,2 +1,2 @@
 # springcloudConfig
-asd
+12345678
